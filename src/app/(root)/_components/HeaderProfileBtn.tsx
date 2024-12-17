@@ -17,7 +17,7 @@ function HeaderProfileBtn() {
       </UserButton>
 
       <SignedOut>
-        /* <LoginButton /> 
+         <LoginButton /> 
       </SignedOut>
     </>
   );
